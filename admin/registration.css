@@ -1,0 +1,48 @@
+.registration{
+  height: 60vh;
+  width: 28% !important;
+    background-color: white;
+  margin-top: 75px !important;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 4px 4px rgba(0,0,0,0.08), 
+                0 10px 10px rgba(0,0,0,0.12), 
+                0 10px 10px rgba(0,0,0,0.16), 
+                0 9px 9px rgba(0,0,0,0.20);
+  
+
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  background:rgb(232,232,232)!important;
+
+
+}
+h2{
+  align-items: center !important;
+  margin-left: 90px !important;
+  color: red !important;
+  padding: 3px !important;
+}
+
+.check1{
+
+  margin-right: 10px !important;
+}
+
+
+input{
+
+  margin-left: 15px !important;
+}
+
+form{
+  margin-top: 8px !important;
+}
+
+button{
+  margin-left: 65px !important;
+}
